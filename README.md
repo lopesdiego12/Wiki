@@ -32,7 +32,7 @@
 - ![#FDE00F](https://via.placeholder.com/8/fde00f/000000?text=+) - https://cursos.alura.com.br/formacao-aws-certified-solutions-architect-associate
 
 ###### DevOps
-- ![#F03C15](https://via.placeholder.com/8/f03c15/000000?text=+)- https://cursos.alura.com.br/course/git-github-controle-de-versao
+- ![#F03C15](https://via.placeholder.com/8/f03c15/000000?text=+) - https://cursos.alura.com.br/course/git-github-controle-de-versao
 - ![#F03C15](https://via.placeholder.com/8/f03c15/000000?text=+) - https://cursos.alura.com.br/course/terraform
 - ![#FDE00F](https://via.placeholder.com/8/fde00f/000000?text=+) - https://cursos.alura.com.br/course/aws-s3-manipule-e-armazene-na-nuvem
 - ![#FDE00F](https://via.placeholder.com/8/fde00f/000000?text=+) - https://cursos.alura.com.br/course/amazon-ec2-disponibilidade-escalabilidade
