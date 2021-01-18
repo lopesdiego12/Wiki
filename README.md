@@ -8,26 +8,26 @@
 
 
 ###### Engenharia de dados generalista
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) - https://cursos.alura.com.br/course/intro-engenharia-de-dados
+- ![#F03C15](https://via.placeholder.com/15/f03c15/000000?text=+) - https://cursos.alura.com.br/course/intro-engenharia-de-dados
 - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) - https://cursos.alura.com.br/formacao-business-intelligence-data-warehouse
 
 ###### Conceitual
-- ![#f03c15] - https://www.tutorialspoint.com/sql/sql-overview.htm
+- ![#F03C15] - https://www.tutorialspoint.com/sql/sql-overview.htm
 - ![#FDE00F] - https://cursos.alura.com.br/course/docker-e-docker-compose
 - ![#FDE00F] - https://cursos.alura.com.br/course/kubernetes-deployments-volumes-escalabilidade
 - ![#FDE00F] - https://cursos.alura.com.br/course/kubernetes-pods-services-configmap
 
 ###### Sistemas Operacionais
-- ![#f03c15] - https://cursos.alura.com.br/course/linux-ubuntu
+- ![#F03C15] - https://cursos.alura.com.br/course/linux-ubuntu
 - ![#FDE00F] - https://cursos.alura.com.br/course/linux-ubuntu-processos
 - ![#FDE00F] - https://cursos.alura.com.br/course/vim
 
 ###### Banco de dados
-- ![#f03c15] - https://cursos.alura.com.br/formacao-modelagem-dados
+- ![#F03C15] - https://cursos.alura.com.br/formacao-modelagem-dados
 
 ###### Cloud
 - ![#FDE00F] - https://cursos.alura.com.br/course/amazon-eks-kubernetes
-- ![#f03c15] - https://cursos.alura.com.br/formacao-aws-certified-cloud-practitioner
+- ![#F03C15] - https://cursos.alura.com.br/formacao-aws-certified-cloud-practitioner
 - ![#FDE00F] - https://cursos.alura.com.br/formacao-aws-certified-solutions-architect-associate
 
 ###### DevOps
