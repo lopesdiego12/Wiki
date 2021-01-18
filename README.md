@@ -2,9 +2,9 @@
 ##### Trilha de conhecimento Engenharia de dados
 
 ####### Legenda
-- ![#F03C15](https://via.placeholder.com/15/f03c15/000000?text=+) - Obrigatórios
-- ![#FDE00F](https://via.placeholder.com/15/fde00f/000000?text=+) - Extras
-- ![#0519F8](https://via.placeholder.com/15/1519F8/000000?text=+) - Específicos
+- ![#F03C15](https://via.placeholder.com/11/f03c15/000000?text=+) - Obrigatórios
+- ![#FDE00F](https://via.placeholder.com/11/fde00f/000000?text=+) - Extras
+- ![#0519F8](https://via.placeholder.com/11/1519F8/000000?text=+) - Específicos
 
 
 ###### Engenharia de dados generalista
