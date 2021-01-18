@@ -2,7 +2,7 @@
 ##### Trilha de conhecimento Engenharia de dados
 
 ####### Legenda
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) - Obrigatórios
+- ![#F03C15](https://via.placeholder.com/15/f03c15/000000?text=+) - Obrigatórios
 - ![#FDE00F](https://via.placeholder.com/15/c5f015/000000?text=+) - Extras
 - ![#0519F8](https://via.placeholder.com/15/1589F0/000000?text=+) - Específicos
 
