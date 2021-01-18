@@ -3,8 +3,8 @@
 
 ####### Legenda
 - ![#F03C15](https://via.placeholder.com/15/f03c15/000000?text=+) - Obrigatórios
-- ![#FDE00F](https://via.placeholder.com/15/c5f015/000000?text=+) - Extras
-- ![#0519F8](https://via.placeholder.com/15/1589F0/000000?text=+) - Específicos
+- ![#FDE00F](https://via.placeholder.com/15/fde00f/000000?text=+) - Extras
+- ![#0519F8](https://via.placeholder.com/15/1519F8/000000?text=+) - Específicos
 
 
 ###### Engenharia de dados generalista
@@ -12,21 +12,21 @@
 - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) - https://cursos.alura.com.br/formacao-business-intelligence-data-warehouse
 
 ###### Conceitual
-- ![#F03C15] - https://www.tutorialspoint.com/sql/sql-overview.htm
-- ![#FDE00F] - https://cursos.alura.com.br/course/docker-e-docker-compose
-- ![#FDE00F] - https://cursos.alura.com.br/course/kubernetes-deployments-volumes-escalabilidade
-- ![#FDE00F] - https://cursos.alura.com.br/course/kubernetes-pods-services-configmap
+- ![#F03C15](https://via.placeholder.com/15/f03c15/000000?text=+) - https://www.tutorialspoint.com/sql/sql-overview.htm
+- ![#FDE00F](https://via.placeholder.com/15/fde00f/000000?text=+) - https://cursos.alura.com.br/course/docker-e-docker-compose
+- ![#FDE00F](https://via.placeholder.com/15/fde00f/000000?text=+)- https://cursos.alura.com.br/course/kubernetes-deployments-volumes-escalabilidade
+- ![#FDE00F](https://via.placeholder.com/15/fde00f/000000?text=+) - https://cursos.alura.com.br/course/kubernetes-pods-services-configmap
 
 ###### Sistemas Operacionais
 - ![#F03C15] - https://cursos.alura.com.br/course/linux-ubuntu
-- ![#FDE00F] - https://cursos.alura.com.br/course/linux-ubuntu-processos
-- ![#FDE00F] - https://cursos.alura.com.br/course/vim
+- ![#FDE00F](https://via.placeholder.com/15/fde00f/000000?text=+) - https://cursos.alura.com.br/course/linux-ubuntu-processos
+- ![#FDE00F](https://via.placeholder.com/15/fde00f/000000?text=+)- https://cursos.alura.com.br/course/vim
 
 ###### Banco de dados
 - ![#F03C15] - https://cursos.alura.com.br/formacao-modelagem-dados
 
 ###### Cloud
-- ![#FDE00F] - https://cursos.alura.com.br/course/amazon-eks-kubernetes
+- ![#FDE00F](https://via.placeholder.com/15/fde00f/000000?text=+)- https://cursos.alura.com.br/course/amazon-eks-kubernetes
 - ![#F03C15] - https://cursos.alura.com.br/formacao-aws-certified-cloud-practitioner
 - ![#FDE00F] - https://cursos.alura.com.br/formacao-aws-certified-solutions-architect-associate
 
