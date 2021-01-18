@@ -1,15 +1,15 @@
 # Plano de aceleração de profissionais
 ##### Trilha de conhecimento Engenharia de dados
 
-Legenda
+####### Legenda
 - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) - Obrigatórios
 - ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) - Extras
 - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) - Específicos
 
 
 ###### Engenharia de dados generalista
-- https://cursos.alura.com.br/course/intro-engenharia-de-dados
-- https://cursos.alura.com.br/formacao-business-intelligence-data-warehouse
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) - https://cursos.alura.com.br/course/intro-engenharia-de-dados
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) - https://cursos.alura.com.br/formacao-business-intelligence-data-warehouse
 
 ###### Conceitual
 - https://www.tutorialspoint.com/sql/sql-overview.htm
