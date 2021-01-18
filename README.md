@@ -3,8 +3,8 @@
 
 ####### Legenda
 - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) - Obrigatórios
-- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) - Extras
-- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) - Específicos
+- ![#FDE00F](https://via.placeholder.com/15/c5f015/000000?text=+) - Extras
+- ![#0519F8](https://via.placeholder.com/15/1589F0/000000?text=+) - Específicos
 
 
 ###### Engenharia de dados generalista
@@ -12,32 +12,32 @@
 - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) - https://cursos.alura.com.br/formacao-business-intelligence-data-warehouse
 
 ###### Conceitual
-- https://www.tutorialspoint.com/sql/sql-overview.htm
-- https://cursos.alura.com.br/course/docker-e-docker-compose
-- https://cursos.alura.com.br/course/kubernetes-deployments-volumes-escalabilidade
-- https://cursos.alura.com.br/course/kubernetes-pods-services-configmap
+- ![#f03c15] - https://www.tutorialspoint.com/sql/sql-overview.htm
+- ![#FDE00F] - https://cursos.alura.com.br/course/docker-e-docker-compose
+- ![#FDE00F] - https://cursos.alura.com.br/course/kubernetes-deployments-volumes-escalabilidade
+- ![#FDE00F] - https://cursos.alura.com.br/course/kubernetes-pods-services-configmap
 
 ###### Sistemas Operacionais
-- https://cursos.alura.com.br/course/linux-ubuntu
-- https://cursos.alura.com.br/course/linux-ubuntu-processos
-- https://cursos.alura.com.br/course/vim
+- ![#f03c15] - https://cursos.alura.com.br/course/linux-ubuntu
+- ![#FDE00F] - https://cursos.alura.com.br/course/linux-ubuntu-processos
+- ![#FDE00F] - https://cursos.alura.com.br/course/vim
 
 ###### Banco de dados
-- https://cursos.alura.com.br/formacao-modelagem-dados
+- ![#f03c15] - https://cursos.alura.com.br/formacao-modelagem-dados
 
 ###### Cloud
-- https://cursos.alura.com.br/course/amazon-eks-kubernetes
-- https://cursos.alura.com.br/formacao-aws-certified-cloud-practitioner
-- https://cursos.alura.com.br/formacao-aws-certified-solutions-architect-associate
+- ![#FDE00F] - https://cursos.alura.com.br/course/amazon-eks-kubernetes
+- ![#f03c15] - https://cursos.alura.com.br/formacao-aws-certified-cloud-practitioner
+- ![#FDE00F] - https://cursos.alura.com.br/formacao-aws-certified-solutions-architect-associate
 
 ###### DevOps
-- https://cursos.alura.com.br/course/git-github-controle-de-versao
-- https://cursos.alura.com.br/course/terraform
-- https://cursos.alura.com.br/course/aws-s3-manipule-e-armazene-na-nuvem
-- https://cursos.alura.com.br/course/amazon-ec2-disponibilidade-escalabilidade
+- ![#f03c15] - https://cursos.alura.com.br/course/git-github-controle-de-versao
+- ![#f03c15] - https://cursos.alura.com.br/course/terraform
+- ![#FDE00F] - https://cursos.alura.com.br/course/aws-s3-manipule-e-armazene-na-nuvem
+- ![#FDE00F] - https://cursos.alura.com.br/course/amazon-ec2-disponibilidade-escalabilidade
 
 ###### Metodologia ágil
-- https://cursos.alura.com.br/formacao-gerente-agil
+- ![#FDE00F] - https://cursos.alura.com.br/formacao-gerente-agil
 
 ###### DataScience
 - https://cursos.alura.com.br/formacao-data-science
@@ -47,21 +47,21 @@
 ##### Perfil Analiser
 
 ###### DataViz
-- https://cursos.alura.com.br/course/tableau-self-service-business-intelligence
-- https://cursos.alura.com.br/course/power-bi-desktop
-- https://cursos.alura.com.br/course/power-bi-dashboard-relatorios
+- ![#0519F8] - https://cursos.alura.com.br/course/tableau-self-service-business-intelligence
+- ![#0519F8] - https://cursos.alura.com.br/course/power-bi-desktop
+- ![#0519F8] - https://cursos.alura.com.br/course/power-bi-dashboard-relatorios
 
 
 ##### Perfil Coder
 
 ###### Linguagem de programação
-- https://cursos.alura.com.br/course/design-patterns-python
-- https://cursos.alura.com.br/course/python-funcoes-pacotes-pandas
-- https://cursos.alura.com.br/course/python-tipos-listas-numpy
+- ![#0519F8] - https://cursos.alura.com.br/course/design-patterns-python
+- ![#0519F8] - https://cursos.alura.com.br/course/python-funcoes-pacotes-pandas
+- ![#0519F8] - https://cursos.alura.com.br/course/python-tipos-listas-numpy
 
 
 ##### Perfil Builder
 
 ###### Processamento Batch/Stream
-- https://sparkbyexamples.com/ ou https://www.tutorialspoint.com/apache_spark/index.htm
-- https://cursos.alura.com.br/formacao-kafka
+- ![#0519F8] - https://sparkbyexamples.com/ ou https://www.tutorialspoint.com/apache_spark/index.htm
+- ![#0519F8] - https://cursos.alura.com.br/formacao-kafka
