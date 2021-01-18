@@ -30,6 +30,7 @@
 - ![#FDE00F](https://via.placeholder.com/8/fde00f/000000?text=+) - https://cursos.alura.com.br/course/amazon-eks-kubernetes
 - ![#F03C15](https://via.placeholder.com/8/f03c15/000000?text=+) - https://cursos.alura.com.br/formacao-aws-certified-cloud-practitioner
 - ![#FDE00F](https://via.placeholder.com/8/fde00f/000000?text=+) - https://cursos.alura.com.br/formacao-aws-certified-solutions-architect-associate
+- ![#F03C15](https://via.placeholder.com/8/f03c15/000000?text=+) - https://cursos.alura.com.br/course/aws-certified-cloud-practitioner-domain-1-e-2
 
 ###### DevOps
 - ![#F03C15](https://via.placeholder.com/8/f03c15/000000?text=+) - https://cursos.alura.com.br/course/git-github-controle-de-versao
