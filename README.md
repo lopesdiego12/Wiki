@@ -21,6 +21,7 @@
 - ![#F03C15](https://via.placeholder.com/8/f03c15/000000?text=+) - https://cursos.alura.com.br/course/linux-ubuntu
 - ![#FDE00F](https://via.placeholder.com/8/fde00f/000000?text=+) - https://cursos.alura.com.br/course/linux-ubuntu-processos
 - ![#FDE00F](https://via.placeholder.com/8/fde00f/000000?text=+) - https://cursos.alura.com.br/course/vim
+- ![#F03C15](https://via.placeholder.com/8/f03c15/000000?text=+) - https://www.tutorialspoint.com/unix/index.htm
 
 ###### Banco de dados
 - ![#F03C15](https://via.placeholder.com/8/f03c15/000000?text=+) - https://cursos.alura.com.br/formacao-modelagem-dados
