@@ -30,7 +30,7 @@ Para este programa iremos utilizar a timeline abaixo.
 
 ## 🛠 Tecnologias
 
-- **[Trilha de conhecimento - Cursos On Line](https://raw.githubusercontent.com/lopesdiego12/Wiki/master/Docker/01%20-%20Docker%20overview.md)**
+- **[Trilha de conhecimento - Cursos On Line](/Docker/01%20-%20Docker%20overview.md)**
 - **[Treinamentos Teóricos](https://unform.dev/why-unform)**
 - **[Treinamentos Práticos](https://unform.dev/why-unform)**
 * [Linux](https://raw.githubusercontent.com/lopesdiego12/Datasprints/master/Composer/Airflow/Dags/Config/DataSprints.yml)
