@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBlCr2Wa8y4rEXNQ7Me7VKC4-eGMH7Xmw9sg&usqp=CAU" height="150" width="175" alt="Unform" />
+  <img src="![](/img/image.png)" height="150" width="175" alt="Unform" />
 </p>
 
 <h3 align="center">
@@ -30,7 +30,7 @@ Para este programa iremos utilizar a timeline abaixo.
 
 ## 🛠 Tecnologias
 
-- **[Trilha de conhecimento - Cursos On Line](https://unform.dev/)**
+- **[Trilha de conhecimento - Cursos On Line](https://raw.githubusercontent.com/lopesdiego12/Wiki/master/Docker/01%20-%20Docker%20overview.md)**
 - **[Treinamentos Teóricos](https://unform.dev/why-unform)**
 - **[Treinamentos Práticos](https://unform.dev/why-unform)**
 * [Linux](https://raw.githubusercontent.com/lopesdiego12/Datasprints/master/Composer/Airflow/Dags/Config/DataSprints.yml)
