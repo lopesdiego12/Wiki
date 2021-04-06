@@ -146,15 +146,15 @@ services:
 volumes:
   postgres-db-volume:
 
-statsd-exporter:
+  statsd-exporter:
         image: prom/statsd-exporter
         container_name: airflow-statsd-exporter
         command: "--statsd.listen-udp=:8125 --web.listen-address=:9102"
         ports:
             - 9123:9102
             - 8125:8125/udp
-    
-    prometheus:
+
+  prometheus:
         image: prom/prometheus
         container_name: airflow-prometheus
         user: "0"
@@ -164,7 +164,7 @@ statsd-exporter:
             - ./prometheus/prometheus.yml:/etc/prometheus/prometheus.yml
             - ./prometheus/volume:/prometheus
         
-    grafana:
+  grafana:
         image: grafana/grafana:7.1.5
         container_name: airflow-grafana
         environment:
